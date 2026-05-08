@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1778238547 source:d:\!!!!! semester 4\lab computing\tubes computing\main.cpp
+	"game.h"
+
+1778238756 d:\!!!!! semester 4\lab computing\tubes computing\game.h
+	<queue>
+	<vector>
+	"piece.h"
+
+1778238917 d:\!!!!! semester 4\lab computing\tubes computing\piece.h
+	<vector>
+
