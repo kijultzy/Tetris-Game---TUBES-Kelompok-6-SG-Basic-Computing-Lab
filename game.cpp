@@ -33,12 +33,12 @@ void drawMenu() {
     cout << "           TETRIS TERMINAL            \n";
     cout << "======================================\n";
     cout << " Kelompok  : Kelompok 6\n";
-    cout << "   Study Group Basic Computing Lab\n";\n";
+    cout << "   Study Group Basic Computing Lab\n";\n;
     cout << "--------------------------------------\n";
     cout << " Anggota Tim:\n";
     cout << " 1. Rizky Dzulfikar Ahmad. (103012430033)\n";
     cout << " 2. Tiara Fitriannisha     (103012400015)\n";
-    cout << " 3. [Nama Anggota 3]       ([NIM 3])\n";
+    cout << " 3. Yosua Aji Wibowo       (103022400036)\n";
     cout << "======================================\n\n";
     cout << " [1] Start Game\n";
     cout << " [2] Exit\n\n";
