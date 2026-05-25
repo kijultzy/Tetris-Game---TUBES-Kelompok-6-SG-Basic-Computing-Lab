@@ -33,7 +33,7 @@ void drawMenu() {
     cout << "           TETRIS TERMINAL            \n";
     cout << "======================================\n";
     cout << " Kelompok  : Kelompok 6\n";
-    cout << "   Study Group Basic Computing Lab\n";\n;
+    cout << "   Study Group Basic Computing Lab\n";
     cout << "--------------------------------------\n";
     cout << " Anggota Tim:\n";
     cout << " 1. Rizky Dzulfikar Ahmad. (103012430033)\n";
@@ -178,6 +178,7 @@ void startGame() {
                         currentPiece.y++;
                     } else {
                         lockPiece(currentPiece);
+                        score += 10;
                         clearFullRows();
 
                         currentPiece = nextPieceQueue.front();

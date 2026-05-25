@@ -10,3 +10,14 @@
 1778238917 d:\!!!!! semester 4\lab computing\tubes computing\piece.h
 	<vector>
 
+1778238960 source:d:\!!!!! semester 4\lab computing\tubes computing\piece.cpp
+	"piece.h"
+	<cstdlib>
+
+1779680799 source:d:\!!!!! semester 4\lab computing\tubes computing\game.cpp
+	"game.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
